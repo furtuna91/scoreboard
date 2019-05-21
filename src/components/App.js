@@ -66,7 +66,6 @@ class App extends React.Component {
 		return (
 			<div className="scoreboard">
 				<Header 
-					title="Scoreboard" 
 					players={this.state.players}
 				/>
 	
