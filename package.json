@@ -2,7 +2,7 @@
   "name": "scoreboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://furtuna91.github.io/scoreboard",
+  "homepage": "https://furtuna91.github.io/scoreboard",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "prop-types": "^15.7.2",
